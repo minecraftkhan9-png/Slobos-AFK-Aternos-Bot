@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Asphalter129",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "FordgeSMP.aternos.me",
     "port": 41366,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "wompwomp"
     },
     "anti-afk": {
       "enabled": true,
